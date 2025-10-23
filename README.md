@@ -82,4 +82,3 @@ Pour reproduire l'étude, exécutez les cellules de code de manière séquentiel
 
 **Remarque :** le modèle CNN à partir de zéro n'a pas réussi à apprendre efficacement la tâche, ce qui a donné lieu à des performances équivalentes au hasard (précision ~50 %) et à une précision/un rappel très faibles. Ceci a été observé pendant son processus d'apprentissage et l'évaluation finale a confirmé ces mauvaises performances. Les modèles d'apprentissage par transfert ont largement surpassé le modèle CNN à partir de zéro.
 
-### Matrice de confusion (apprentissage par transfert - optimiseur Adam sur l'ensemble de test)
